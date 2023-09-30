@@ -1,4 +1,6 @@
-<h3 align="left">Hi 👋! My name is Luís Henrique and I'm a FrontEnd Developer, from RS, Brasil.</h3>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Luís Henrique and I'm a frontend developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>RS, Brasil</b>. </p>
 
 ###
 
@@ -8,6 +10,8 @@
 </div>
 
 ###
+
+##
 
 <h3 align="left">I code with</h3>
 
@@ -47,10 +51,15 @@
 
 ###
 
+##
+
 <img align="right" height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif"  />
 
-###
+### About Me
 
-<p align="left">Hello World!</p>
+- 📚 I'm currently learning React and SQL
+- 🎯 Goals: become a software developer 👩‍💻 and be free 💲
+- 🧨 Never give up
 
-###
+##
+
