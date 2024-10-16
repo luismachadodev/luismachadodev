@@ -4,7 +4,7 @@
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismachadodev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luismachadodev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismachadodev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luismachadodev&theme=dracula})](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
