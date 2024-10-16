@@ -21,9 +21,16 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=luismachadodev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+       <img align="right" height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif"  />
   </div>
-  
+
+### About Me
+
+- 📚 I'm currently learning AWS, Docker and Java.
+- 🎯 Goals: become a software developer 👩‍💻 and be free 💲
+- 🧨 Never give up
+
+##
  
 
 
