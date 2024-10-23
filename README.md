@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi there, I'm Luis Henrique 👋
 
-<!--
-**luismachadodev/luismachadodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🔧 Mastering: TypeScript and Node.js
+- 🎯 Goals: Start my own business.
+- 📚 I'm currently learning AWS, Docker, and Java.
+- 🧨 Never give up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <img align="right" height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" />
+</div> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,react,next,tailwind,sass,nodejs,express,vue,docker,aws,java,spring,figma,github,jest,styledcomponents,mongodb,postgres,firebase,prisma" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismachadodev&theme=dracula" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luismachadodev&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
