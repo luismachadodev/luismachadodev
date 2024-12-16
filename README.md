@@ -7,7 +7,8 @@ Here are the technologies I have been working with:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,javascript,go,vue,react,nextjs,postgres,docker,aws,gitlab&theme=dark)](https://skillicons.dev)
 
 <br/>
-   <img align="left" height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" />
+<img height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" />
+
 <br/>
 
 
