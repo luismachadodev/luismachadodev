@@ -1,46 +1,15 @@
-## Hi there, I'm Luis Henrique 👋
+I'm Luis, a Software Developer. <br/>
 
-### About Me
+My goal is to build a solid career in software development as a fullstack developer, with a strong focus on specializing in backend technologies.
 
-- 🔧 Mastering: TypeScript and Node.js
-- 🎯 Goals: Start my own business.
-- 📚 I'm currently learning AWS, Docker, and Java.
-- 🧨 Never give up.
+Here are the technologies I have been working with:
 
-<div align="center">
-   <img align="right" height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" />
-</div> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,javascript,go,vue,react,nextjs,postgres,docker,aws,gitlab&theme=dark)](https://skillicons.dev)
 
----
+<br/>
+   <img align="left" height="150" src="https://media.tenor.com/lDoAH0dehbIAAAAM/cat-mouse.gif" />
+<br/>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,react,next,tailwind,sass,nodejs,express,vue,docker,aws,java,spring,figma,github,jest,styledcomponents,mongodb,postgres,firebase,prisma" />
-  </a>
-</div>
 
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismachadodev&theme=dracula" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luismachadodev&theme=dracula" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
