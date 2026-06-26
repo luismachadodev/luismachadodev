@@ -3,6 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 permissions:
@@ -12,25 +13,13 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          TARGET_PATH: README.md
-          TARGET_BRANCH: main
-
-          SECTION_NAME: waka
-
           TIME_RANGE: all_time
-          LANG_COUNT: 5
-
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-
           SHOW_TIME: true
-          SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
-
-          IGNORED_LANGUAGES: "Binary,YAML,JSON,TOML,SQL,Markdown"
+          LANG_COUNT: 5
+          IGNORED_LANGUAGES: "Binary, YAML, JSON, TOML, SQL, Markdown"
